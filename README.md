@@ -1,2 +1,1 @@
-# BeFit
-![](./thumbnail.jpg)
+
